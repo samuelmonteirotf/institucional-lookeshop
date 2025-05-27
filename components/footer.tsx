@@ -79,7 +79,7 @@ export function Footer() {
           {/* Copyright */}
           <div className="text-center">
             <div className="flex items-center justify-center space-x-3 text-gray-400">
-              <span>© 2024 Look Shop. Feito com</span>
+              <span>© 2024 Look&Shop. Feito com</span>
               <Heart className="w-5 h-5 text-[#FF0000]" />
               <span>e fé em Cristo.</span>
             </div>
