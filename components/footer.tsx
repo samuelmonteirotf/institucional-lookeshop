@@ -13,7 +13,7 @@ export function Footer() {
                 <Smartphone className="w-8 h-8 text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">Look Shop</h3>
+                <h3 className="text-2xl font-bold">Look&Shop</h3>
                 <p className="text-gray-400">Especialistas em iPhone</p>
               </div>
             </div>
