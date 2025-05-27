@@ -6,7 +6,7 @@ export function AboutSection() {
     <section id="sobre" className="py-20 bg-[#0033CC]">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-5xl font-bold text-white mb-6">Sobre a Look Shop</h2>
+          <h2 className="text-5xl font-bold text-white mb-6">Sobre a Look&Shop</h2>
           <p className="text-xl text-blue-100 max-w-4xl mx-auto leading-relaxed">
             Uma empresa cristã especializada em serviços para iPhone, combinando excelência técnica com atendimento
             humano baseado em princípios bíblicos.
