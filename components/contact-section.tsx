@@ -176,7 +176,7 @@ export function ContactSection() {
                 </div>
                 <div className="space-y-3 text-lg">
                   <p>
-                    <strong>Segunda a Sexta:</strong> 8h às 18h
+                    <strong>Segunda a Sexta:</strong> 9h às 18h
                   </p>
                   <p>
                     <strong>Sábado:</strong> 8h às 12h
