@@ -19,7 +19,7 @@ export function ContactSection() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    const whatsappMessage = `Olá! Vim pelo site da Look Shop.%0A%0ANome: ${formData.name}%0AEmail: ${formData.email}%0ATelefone: ${formData.phone}%0A%0AMensagem: ${formData.message}`
+    const whatsappMessage = `Olá! Vim pelo site da Look&Shop.%0A%0ANome: ${formData.name}%0AEmail: ${formData.email}%0ATelefone: ${formData.phone}%0A%0AMensagem: ${formData.message}`
     window.open(`https://wa.me/5513982016096?text=${whatsappMessage}`, "_blank")
   }
 
@@ -231,7 +231,7 @@ export function ContactSection() {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Look Shop - Pariquera-Açu"
+                    title="Look&Shop - Pariquera-Açu"
                   ></iframe>
                 </div>
 
@@ -274,7 +274,7 @@ export function ContactSection() {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Look Shop - Eldorado"
+                    title="Look&Shop - Eldorado"
                   ></iframe>
                 </div>
 
