@@ -36,7 +36,6 @@ export function HeroSection() {
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-12 leading-relaxed">
             Especialistas em iPhone com atendimento humano, transparente e confiável.
             <br />
-            Guiados por princípios cristãos de excelência e amor.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-16">
@@ -81,7 +80,7 @@ export function HeroSection() {
               <CheckCircle className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-xl font-bold text-black mb-3">Qualidade</h3>
-            <p className="text-gray-600">Excelência técnica com amor cristão</p>
+            <p className="text-gray-600">Excelência técnica</p>
           </div>
         </div>
       </div>

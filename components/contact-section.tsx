@@ -118,7 +118,7 @@ export function ContactSection() {
                   </div>
                 </div>
                 <p className="text-gray-700 mb-6 leading-relaxed">
-                  Fale conosco diretamente pelo WhatsApp e receba atendimento personalizado com amor e dedicação cristã.
+                  Fale conosco diretamente pelo WhatsApp e receba atendimento personalizado.
                 </p>
                 <a
                   href="https://wa.me/5513982016096?text=Olá,%20vim%20pelo%20site%20da%20Look%20Shop!"
@@ -149,7 +149,7 @@ export function ContactSection() {
                   </div>
                 </div>
                 <p className="text-white mb-6 leading-relaxed">
-                  Siga-nos no Instagram para ver nossos trabalhos, dicas e acompanhar nossa jornada de fé e excelência.
+                  Siga-nos no Instagram para ver nossos trabalhos, dicas e acompanhar nossa jornada.
                 </p>
                 <a
                   href="https://instagram.com/lookeshop.ihelpi"
@@ -182,11 +182,11 @@ export function ContactSection() {
                     <strong>Sábado:</strong> 8h às 12h
                   </p>
                   <p>
-                    <strong>Domingo:</strong> Fechado (Dia do Senhor)
+                    <strong>Domingo:</strong> Fechado
                   </p>
                 </div>
                 <p className="mt-6 text-blue-100 text-sm">
-                  Respeitamos o dia do Senhor conforme os ensinamentos bíblicos.
+                  
                 </p>
               </CardContent>
             </Card>
@@ -224,7 +224,7 @@ export function ContactSection() {
                 {/* Google Maps */}
                 <div className="rounded-xl overflow-hidden shadow-lg mb-4">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.123456789!2d-47.8789!3d-24.7123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDQyJzQ0LjMiUyA0N8KwNTInNDQuMSJX!5e0!3m2!1spt-BR!2sbr!4v1234567890"
+                    src="https://www.google.com.br/maps/embed?pb=!1m18!1m12!1m3!1d3641.597924778391!2d-47.88256958525549!3d-24.71369948448937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dac57f4b1b9fd9%3A0xb85391796264ca5f!2sLookeshop+Pariquera+A%C3%A7u%2FSP!5e0!3m2!1spt-BR!2sbr!4v1716812739213!5m2!1spt-BR!2sbr"
                     width="100%"
                     height="200"
                     style={{ border: 0 }}
@@ -236,7 +236,7 @@ export function ContactSection() {
                 </div>
 
                 <a
-                  href="https://maps.google.com/?q=Av.+Dr.+Carlos+Botelho,+265+-+Centro,+Pariquera-Açu+-+SP,+11930-000"
+                  href="https://www.google.com.br/maps/place/Lookeshop+Pariquera+A%C3%A7u%2FSP/@-24.7139092,-47.8829738,19.04z/data=!4m6!3m5!1s0x94dac57f4b1b9fd9:0xb85391796264ca5f!8m2!3d-24.7136995!4d-47.8825696!16s%2Fg%2F11cmdm2357?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-[#0033CC] hover:bg-[#0033CC]/90 text-white px-8 py-4 rounded-xl font-bold transition-colors"
@@ -267,7 +267,7 @@ export function ContactSection() {
                 {/* Google Maps */}
                 <div className="rounded-xl overflow-hidden shadow-lg mb-4">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.456789012!2d-48.1234!3d-24.5678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDM0JzA0LjEiUyA0OMKwMDcnMjQuMyJX!5e0!3m2!1spt-BR!2sbr!4v1234567891"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.834044399033!2d-48.10862168528227!3d-24.522377184572713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c4d64ff35d014d%3A0xbb9b37f760c0f625!2sLookeshop+Eldorado%2FSP!5e0!3m2!1spt-BR!2sbr!4v1716812837330!5m2!1spt-BR!2sbr"
                     width="100%"
                     height="200"
                     style={{ border: 0 }}
@@ -279,7 +279,7 @@ export function ContactSection() {
                 </div>
 
                 <a
-                  href="https://maps.google.com/?q=Av.+Caraitá,+311+-+Centro,+Eldorado+-+SP,+11960-000"
+                  href="https://www.google.com.br/maps/place/Lookeshop+Eldorado%2FSP/@-24.5223722,-48.1134926,17z/data=!3m1!4b1!4m6!3m5!1s0x94c4d64ff35d014d:0xbb9b37f760c0f625!8m2!3d-24.5223772!4d-48.1086217!16s%2Fg%2F11h4n1b6x9?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-[#FF0000] hover:bg-[#FF0000]/90 text-white px-8 py-4 rounded-xl font-bold transition-colors"
