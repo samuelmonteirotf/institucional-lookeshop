@@ -101,7 +101,7 @@ export function ServicesSection() {
             você com excelência técnica!
           </p>
           <a
-            href="https://wa.me/5513982016096?text=Olá,%20vim%20pelo%20site%20da%20Look%20Shop!"
+            href="https://wa.me/5513982016096?text=Olá,%20vim%20pelo%20site%20e%20gostaria%20de%20mais%20informações!"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[#FF0000] hover:bg-[#FF0000]/90 text-white px-10 py-4 rounded-xl font-bold text-lg transition-colors"
